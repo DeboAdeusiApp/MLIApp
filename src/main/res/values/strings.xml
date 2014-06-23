@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Law Island</string>
+    <string name="title_section1">Constitution of Nigeria</string>
+    <string name="title_section2">Court of Appeal</string>
+    <string name="title_section3">High Courts</string>
+    <string name="title_section4">Law Reporting</string>
+    <string name="title_section5">Nigeria Internet Law Reports (NILR)</string>
+    <string name="title_section6">Laws of the Federation of Nigeria</string>
+    <string name="title_section7">Laws of the States</string>
+    <string name="title_section8">Supreme Court</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Bookmark</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
