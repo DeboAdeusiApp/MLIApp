@@ -151,7 +151,7 @@ public class MainActivity extends ActionBarActivity
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             /**
              * this is where the section number is put into the fragment
-             *okay
+             * changed!
              */
             TextView textView = (TextView) rootView.findViewById(R.id.section_label);
             textView.setText(Integer.toString(getArguments().getInt(ARG_SECTION_NUMBER)));
