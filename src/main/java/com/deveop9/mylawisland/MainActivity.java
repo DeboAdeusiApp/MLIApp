@@ -180,57 +180,6 @@ public class MainActivity extends ActionBarActivity
                         " Sed dignissim lacinia nunc Curabitur tortor"+
                         " Curabitur tortor Pellentesque nibh"+
                         " Pellentesque nibh Aenean quam"+
-                        " Aenean quam In scelerisque sem at dolor"+
-                        " In scelerisque sem at dolor Maecenas mattis"+
-                        " Maecenas mattis Sed convallis tristique sem"+
-                        " Sed convallis tristique sem Proin ut ligula vel nunc egestas porttitor"+
-                        " Proin ut ligula vel nunc egestas porttitor Morbi lectus risus"+
-                        " Morbi lectus risus iaculis vel"+
-                        " iaculis vel suscipit quis"+
-                        " suscipit quis luctus non"+
-                        " luctus non massa"+
-                        " massa Fusce ac turpis quis ligula lacinia aliquet"+
-                        " Fusce ac turpis quis ligula lacinia aliquet Mauris ipsum"+
-                        " Mauris ipsum Nulla metus metus"+
-                        " Nulla metus metus ullamcorper vel"+
-                        " ullamcorper vel tincidunt sed"+
-                        " tincidunt sed euismod in"+
-                        " euismod in nibh"+
-                        " nibh Quisque volutpat condimentum velit"+
-                        " Quisque volutpat condimentum velit Class aptent taciti sociosqu ad litora torquent per conubia nostra"+
-                        " Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos himenaeos"+
-                        " per inceptos himenaeos Nam nec ante"+
-                        " Nam nec ante Sed lacinia"+
-                        " Sed lacinia urna non tincidunt mattis"+
-                        " urna non tincidunt mattis tortor neque adipiscing diam"+
-                        " tortor neque adipiscing diam a cursus ipsum ante quis turpis"+
-                        " a cursus ipsum ante quis turpis Nulla facilisi"+
-                        " Nulla facilisi Ut fringilla"+
-                        " Ut fringilla Suspendisse potenti"+
-                        " Suspendisse potenti Nunc feugiat mi a tellus consequat imperdiet"+
-                        " Nunc feugiat mi a tellus consequat imperdiet Vestibulum sapien"+
-                        " Vestibulum sapien Proin quam"+
-                        " Proin quam Etiam ultrices"+
-                        " Etiam ultrices Suspendisse in justo eu magna luctus suscipit"+
-                        " Suspendisse in justo eu magna luctus suscipit Sed lectus"+
-                        " Sed lectus Integer euismod lacus luctus magna"+
-                        " Integer euismod lacus luctus magna Quisque cursus"+
-                        " Quisque cursus metus vitae pharetra auctor"+
-                        " metus vitae pharetra auctor sem massa mattis sem"+
-                        " sem massa mattis sem at interdum magna augue eget diam"+
-                        " at interdum magna augue eget diam Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui"+
-                        " Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui Praesent blandit dolor"+
-                        " Praesent blandit dolor Sed non quam"+
-                        " Sed non quam In vel mi sit amet augue congue elementum"+
-                        " In vel mi sit amet augue congue elementum Morbi in ipsum sit amet pede facilisis laoreet"+
-                        " Morbi in ipsum sit amet pede facilisis laoreet Donec lacus nunc"+
-                        " Donec lacus nunc viverra nec"+
-                        " viverra nec blandit vel"+
-                        " blandit vel egestas et"+
-                        " egestas et augue"+
-                        " augue Vestibulum tincidunt malesuada tellus"+
-                        " Vestibulum tincidunt malesuada tellus Ut ultrices ultrices enim"+
-                        " Ut ultrices ultrices enim Curabitur sit amet mauris"+
                         " Curabitur sit amet mauris Morbi in dui quis est pulvinar ullamcorper"+
                         " Morbi in dui quis est pulvinar ullamcorper "
                 ;

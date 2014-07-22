@@ -87,6 +87,7 @@ public class NavigationDrawerFragment extends Fragment {
     }
 
     @Override
+    //Add Stuff to Drawerlist
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
         mDrawerListView = (ListView) inflater.inflate(
@@ -109,12 +110,14 @@ public class NavigationDrawerFragment extends Fragment {
                         getString(R.string.title_section5),
                         getString(R.string.title_section6),
                         getString(R.string.title_section7),
-                        getString(R.string.title_section8)
+                        getString(R.string.title_section8),
+                        getString(R.string.title_section9)
 
                 }));
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
         return mDrawerListView;
     }
+    //End Draw list
 
     public boolean isDrawerOpen() {
         return mDrawerLayout != null && mDrawerLayout.isDrawerOpen(mFragmentContainerView);
@@ -180,7 +183,7 @@ public class NavigationDrawerFragment extends Fragment {
         // If the user hasn't 'learned' about the drawer, open it to introduce them to the drawer,
         // per the navigation drawer design guidelines.
         if (!mUserLearnedDrawer && !mFromSavedInstanceState) {
-            mDrawerLayout.openDrawer(mFragmentContainerView);
+            mDrawerLayout.openDrawer(mFragmentContainerView); //open DRAWER!!!!!
         }
 
         // Defer code dependent on restoration of previous instance state.
